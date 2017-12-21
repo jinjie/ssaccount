@@ -1,0 +1,13 @@
+{
+    "name": "jinjie/ssaccount",
+    "description": "Simple Account Page for SilverStripe",
+    "type": "silverstripe-module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kong Jin Jie",
+            "email": "jinjie@swiftdev.sg"
+        }
+    ],
+    "require": {}
+}
